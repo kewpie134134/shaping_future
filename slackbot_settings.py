@@ -3,7 +3,7 @@
 # SlackのAPIを利用するためのトークン
 # Botの設定ページから「OAuth & Permissions」のページに遷移し、
 # 「Bot User OAuth Access Token」をコピーして貼り付ける
-API_TOKEN = "xoxb-274122834004-682289922343-ibt2YJ5VpiHFnEuTHcwWkRFv"
+API_TOKEN = "xoxb-274122834004-682289922343-FJUuwxoxpD5adeoNG1lt5Jvk"
 
 # 対応するメッセージがなかった場合に反応するメッセージ
 DEFAULT_REPLY = "すみません、良い返事ができませんでした。"
